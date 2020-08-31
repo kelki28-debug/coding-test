@@ -1,0 +1,5 @@
+.All{
+    display: grid;
+    grid-template-rows: repeat(8, 150px);
+    grid-gap: 20px;
+  }

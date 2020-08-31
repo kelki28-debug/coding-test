@@ -1,0 +1,25 @@
+.pinks{
+   
+    display: grid;
+    grid-template-rows: repeat(5, 150px);
+    grid-template-columns: repeat(8, 150px);
+    grid-gap: 30px;
+}
+.pink{
+   
+}
+.box-pink1{
+    background-color: rgb(247, 159, 174);
+}
+.box-pink2{
+    background-color: pink;
+}
+.box-pink3{
+    background-color: rgb(202, 141, 151);
+}
+.box-pink4{
+    background-color: rgb(250, 121, 143);
+}
+.box-pink5{
+    background-color:rgb(173, 72, 89);
+}
